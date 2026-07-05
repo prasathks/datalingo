@@ -249,5 +249,5 @@ docker run -p 3000:3000 -e GEMINI_API_KEY=your_key_here datalingo
 
 <div align="center">
   <p>Built with care — DataLingo</p>
-  <p><a href="https://datalingo-prasathks.vercel.app">Live Demo</a> | <a href="https://github.com/prasathks/datalingo">GitHub Repository</a></p>
+  <p><a href="https://datalingo-2p5u.vercel.app/">Live Demo</a> | <a href="https://github.com/prasathks/datalingo">GitHub Repository</a></p>
 </div>

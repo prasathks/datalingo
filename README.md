@@ -11,7 +11,7 @@
 
 <div align="center">
 
-### 🌐 [LIVE DEMO](https://datalingo-prasathks.vercel.app) | 📁 [GitHub Repository](https://github.com/prasathks/datalingo)
+### 🌐 [LIVE DEMO](https://datalingo-2p5u.vercel.app/) | 📁 [GitHub Repository](https://github.com/prasathks/datalingo)
 
 
 
